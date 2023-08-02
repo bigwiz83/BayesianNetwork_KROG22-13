@@ -21,5 +21,8 @@ Keywords: Bayesian Network, Disease Burden, Expert Knowledge, Survey, Disability
 
 
 
+<img width="80%" src="https://github.com/bigwiz83/BayesianNetwork_KROG22-13/blob/9a043eb7ec9792fa52ee0692bad00aee30127954/bayesian%20network.png">
 
 
+To used our mode, BayesiaLab software should be installed in your computer.
+Please, follow the instructions of the software hompage: https://www.bayesia.com/bayesia/
